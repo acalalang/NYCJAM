@@ -1,0 +1,21 @@
+#name {
+    text-align: center;
+    font-family: upheavtt;
+    font-size: 40px;
+    color: aqua;
+}
+
+#son {
+    text-align: center;
+    font-family: upheavtt;
+    font-size: 40px;
+    color: yellow;
+}
+
+
+
+@font-face {
+    font-family: upheavtt;
+    src: url("upheavtt.ttf") format("opentype");
+}
+
