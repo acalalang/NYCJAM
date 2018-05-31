@@ -1,0 +1,29 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#name {
+    text-align: center;
+    font-family: upheavtt;
+    font-size: 40px;
+    color: grey;
+}
+
+#son {
+    text-align: center;
+    font-family: upheavtt;
+    font-size: 40px;
+    background: -webkit-linear-gradient(135deg, #67f1f9, #00abff, #67f1f9, #00abff, #67f1f9, #00abff, #67f1f9, #00abff, #67f1f9, #00abff, #67f1f9, #00abff, #67f1f9, #00abff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+@font-face {
+    font-family: upheavtt;
+    src: url("upheavtt.ttf") format("opentype");
+}
+
