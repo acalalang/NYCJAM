@@ -5,17 +5,23 @@
     width: 50%;
 }
 
-#name {
-    text-align: center;
-    font-family: upheavtt;
-    font-size: 40px;
-    color: grey;
+body {
+    background-image: url("../Images/nycjam_background.jpg");
 }
 
-#son {
+#yellow_text {
     text-align: center;
     font-family: upheavtt;
-    font-size: 40px;
+    font-size: 72px;
+    color: #FCF54C;
+    text-shadow: 2px -2px 0px rgba(0, 0, 0, 1);
+}
+
+#blue_text {
+    text-align: center;
+    font-family: upheavtt;
+    font-size: 72px;
+    background: text-shadow: 2px -2px 0px rgba(0, 0, 0, 1);
     background: -webkit-linear-gradient(135deg, #67f1f9, #00abff, #67f1f9, #00abff, #67f1f9, #00abff, #67f1f9, #00abff, #67f1f9, #00abff, #67f1f9, #00abff, #67f1f9, #00abff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -24,6 +30,6 @@
 
 @font-face {
     font-family: upheavtt;
-    src: url("upheavtt.ttf") format("opentype");
+    src: url("../nyc-jam-typeface/Fonts/upheavtt.ttf") format("opentype");
 }
 
