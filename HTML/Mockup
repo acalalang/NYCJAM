@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+<meta charset="UTF-8">
+    
+<title>Title</title>
+    
+<link rel="stylesheet" href="../CSS/Home%20Style.css">
+    
+<img src="../Images/nycjam_logo_2018.png" class="logo" height="450" width="600"/>
+</head>
+<body>
+	
+
+<p id="yellow_text" >
+<span style="text-shadow: 2px 2px 8px black;">	    THE FIRST EVER<br>FULL COURT 2 VS. 2
+	</span></p>
+	
+<p id="blue_text">	    HIGH SCHOOL<br>BASKETBALL TOURNAMENT
+	</p>
+</body>
+</html>
